@@ -1,0 +1,5 @@
+{
+  "name": "CyberSnippet Manager",
+  "description": "A futuristic dark-mode code snippet manager with integrated AI code explanation powered by Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
